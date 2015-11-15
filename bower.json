@@ -1,0 +1,9 @@
+{
+  "name": "spring-boot-grunt-bower",
+  "version": "0.0.1",
+  "dependencies": {
+  	"materialize": "~v0.97.2",
+    "jquery": "~2.1.3"
+  },
+  "private": true
+}
