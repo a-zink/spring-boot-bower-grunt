@@ -6,3 +6,7 @@
 - Frontend build is managed with [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin) (downloads npm and has m2e support!)
 - Only the frontend resources really needed are packaged with the application
 - Profiles 'debug' and 'production' can be used to switch between original and minified frontend resources
+
+# note
+
+- you might need GIT_HOME/bin and GIT_HOME/cmd on your PATH
