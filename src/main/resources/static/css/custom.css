@@ -1,6 +1,7 @@
-.icon-block {
-  padding: 0 15px;
+body {
+  padding-top: 50px;
 }
-.icon-block .material-icons {
-	font-size: inherit;
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
 }

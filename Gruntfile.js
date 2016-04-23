@@ -9,7 +9,7 @@ module.exports = function(grunt) {
 								{
 									expand : true,
 									flatten : true,
-									src : [ 'bower_components/materialize/dist/css/*' ],
+									src : [ 'bower_components/bootstrap/dist/css/*.css' ],
 									dest : 'target/classes/static/css',
 									filter : 'isFile'
 								},
@@ -17,16 +17,16 @@ module.exports = function(grunt) {
 									expand : true,
 									flatten : true,
 									src : [
-											'bower_components/materialize/dist/js/*',
+											'bower_components/bootstrap/dist/js/*',
 											'bower_components/jquery/dist/*' ],
 									dest : 'target/classes/static/js',
 									filter : 'isFile'
 								},
 								{
 									expand : true,
-									cwd : 'bower_components/materialize/dist/font/',
+									cwd : 'bower_components/bootstrap/dist/fonts/',
 									src : [ '**' ],
-									dest : 'target/classes/static/font/'
+									dest : 'target/classes/static/fonts/'
 								} ],
 					},
 				},
@@ -44,7 +44,7 @@ module.exports = function(grunt) {
 				uglify : {
 					my_target : {
 						files : {
-							'target/classes/static/js/custom.min.js' : [ 'src/main/resources/static/js/custom.js' ],
+							'target/classes/static/js/app.min.js' : [ 'src/main/resources/static/js/app.js' ],
 						}
 					}
 				}

@@ -1,6 +1,0 @@
-{
-	"registry": "http://bower.herokuapp.com",
-	"proxy": "http://cache.innovations.de:3128",
-	"https-proxy": "http://cache.innovations.de:3128",
-	"strict-ssl": false
-}
