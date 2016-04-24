@@ -8,6 +8,3 @@
 - Profiles 'development' and 'production' can be used to switch between original and minified frontend resources
 - Spring Boot Devtools for automatic redeployment on changes
 
-# note
-
-- you might need GIT_HOME/bin and GIT_HOME/cmd on your PATH
