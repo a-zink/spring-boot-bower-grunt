@@ -1,4 +1,4 @@
-# Maven Project Template
+# Web-UI Application Project Template
 
 - Simple [Spring Boot](http://projects.spring.io/spring-boot/) application using [Spring MVC](https://spring.io/guides/gs/serving-web-content/) and [Thymeleaf](http://www.thymeleaf.org/)
 - Frontend dependencies are managed using [Bower](http://bower.io/)
