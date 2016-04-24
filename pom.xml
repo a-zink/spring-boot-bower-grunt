@@ -16,8 +16,8 @@
    </properties>
 
    <scm>
-      <connection>scm:git:git@github.com:andreas-zink/spring-boot-bower-grunt.git</connection>
-      <developerConnection>scm:git:git@github.com:andreas-zink/spring-boot-bower-grunt.git</developerConnection>
+      <connection>scm:git:git@github.com:a-zink/spring-boot-bower-grunt.git</connection>
+      <developerConnection>scm:git:git@github.com:a-zink/spring-boot-bower-grunt.git</developerConnection>
       <tag>HEAD</tag>
    </scm>
 

@@ -7,4 +7,3 @@
 - Only the frontend resources really needed are packaged with the application
 - Profiles 'development' and 'production' can be used to switch between original and minified frontend resources
 - Spring Boot Devtools for automatic redeployment on changes
-
